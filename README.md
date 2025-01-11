@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-As a passionate Data Analyst with a strong foundation in cloud technologies, I specialize in transforming raw data into actionable insights. My expertise lies in collecting, cleaning, and analyzing complex datasets to drive strategic business decisions. Here’s what I bring to the table:<br><br>Technical Skills:<br>Azure Data Factory: Proficient in designing and orchestrating data workflows within Azure.<br>Azure Databricks: Skilled at leveraging Databricks for big data processing and analytics.<br>SQL: Experienced in querying and manipulating data using SQL.<br>Power BI: Capable of creating interactive visualizations and reports.<br>Snowflake: Well-versed in Snowflake’s cloud data warehousing capabilities.<br><br>Programming Languages:<br>Python<br>PySpark<br><br>Tools and Frameworks:<br>Visual Studio<br>Jupyter Notebook<br>Azure Databricks
+As a passionate Data Analyst with a strong foundation in cloud technologies, I specialize in transforming raw data into actionable insights. My expertise lies in collecting, cleaning, and analyzing complex datasets to drive strategic business decisions. Here’s what I bring to the table:<br><br>Technical Skills:<br>Azure Data Factory: Proficient in designing and orchestrating data workflows within Azure.<br>Azure Databricks: Skilled at leveraging Databricks for big data processing and analytics.<br>SQL: Experienced in querying and manipulating data using SQL.<br>Power BI: Capable of creating interactive visualizations and reports.<br><br>Programming Languages:<br>Python<br>PySpark<br><br>Tools and Frameworks:<br>Visual Studio<br>Jupyter Notebook<br>Azure Databricks
 
 
 ## 🌐 Socials:
